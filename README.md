@@ -1,0 +1,2 @@
+# simplescala
+scala starter
